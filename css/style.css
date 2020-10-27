@@ -1,0 +1,128 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.cs-background {
+    background: hsl(220, 84%, 10%) !important;
+}
+
+.cs-background-light {
+    background: #F7FAFD !important;
+}
+
+.cs-background-darkblue {
+    background: #043579 !important;
+}
+
+.cs-color {
+    color: white;
+}
+
+.cs-color-lightblue {
+    color: #B4E8FB;
+}
+
+.cs-color-blue {
+    color: #0467C9 !important;
+}
+
+.cs-color-darkblue {
+    color: #043579 !important;
+}
+
+.cs-color-neutral {
+    color: #9A9FBF;
+}
+
+.b-image {
+    background-image: url("../img/bg-map.png");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-text {
+    font-size: 48px;
+    line-height: 150%;
+    font-weight: bold;
+}
+
+.medium-body-text {
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */
+    display: flex;
+    align-items: center;
+}
+
+.large-heading-text {
+    font-size: 48px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+}
+
+.medium-heading-text {
+    font-size: 36px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+}
+
+.small-heading-text {
+    font-size: 24px;
+    line-height: 150%;
+    align-items: center;
+}
+
+.small-body-text {
+    font-size: 14px;
+    line-height: 150%;
+    /* or 21px */
+    display: flex;
+    align-items: center;
+}
+
+.small-link-text {
+    font-size: 14px;
+    line-height: 150%;
+    /* or 21px */
+    display: flex;
+}
+
+.neutral-text {
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #9A9FBF;
+}
+
+.cs-button-light {
+    border-radius: 5px;
+    font-size: 18px;
+    line-height: 150%;
+    padding: 12px 20px !important;
+}
+
+.cs-text-medium {
+    font-weight: 500;
+}
+
+.cs-card {
+    background: #F7FAFD;
+    border: 1px solid #C7EEFC;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.org1 {
+    mix-blend-mode: multiply;
+}
+
+.org4 {
+    mix-blend-mode: darken;
+}
